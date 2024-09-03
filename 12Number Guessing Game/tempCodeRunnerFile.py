@@ -1,0 +1,1 @@
+difficulty = input("Choose difficulty. Type 'easy' or 'hard': ")
